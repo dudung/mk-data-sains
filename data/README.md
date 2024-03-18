@@ -32,10 +32,10 @@ Header | Meaning
 `EI16` | Education index in 2016
 `EI17` | Education index in 2017
 `EI18` | Education index in 2018
-`GDPACMP20` | Gross domestic product at current market price in 2020
-`GDPACMP21` | Gross domestic product at current market price in 2021
-`GDPACMP22` | Gross domestic product at current market price in 2022
-`GDPACMP23` | Gross domestic product at current market price in 2023
+`GDPACMP20` | Growth rate of gross domestic product at current market price in 2020
+`GDPACMP21` | Growth rate of gross domestic product at current market price in 2021
+`GDPACMP22` | Growth rate of gross domestic product at current market price in 2022
+`GDPACMP23` | Growth rate of gross domestic product at current market price in 2023
 `UR20` | Unemployment rate in 2020
 `UR21` | Unemployment rate in 2021
 `UR22` | Unemployment rate in 2022
