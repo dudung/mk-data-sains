@@ -9,4 +9,4 @@ Mata Kuliah Data Sains
 6. Descriptive statistics and Python ([slide-6](https://osf.io/zqkv9), [assignment](../../issues/6))
 7. Materials review and finishing previous assignment ([assignment](../../issues/7))
 8. Data dan source of data ([slide-8a](https://osf.io/an2bs), [slide-8b](https://osf.io/3rb8k), [assignment](../../issues/8))
-9. Random number, Monte Carlo, discrete Fourier transform ([slide-9a](https://zenodo.org/records/7106168), [slide-9b](https://osf.io/9ykqu), [slide-9c](https://osf.io/k6mr9), [assignement](../../issues/9))
+9. Random number, Monte Carlo, discrete Fourier transform ([slide-9a](https://zenodo.org/records/7106168), [slide-9b](https://osf.io/9ykqu), [slide-9c](https://osf.io/k6mr9), [assignment](../../issues/9))
