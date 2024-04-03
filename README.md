@@ -8,5 +8,5 @@ Mata Kuliah Data Sains
 5. Python and pandas DataFrame ([slide-5a](https://osf.io/kgw5f), [slide-5b](https://osf.io/6t48k), [assignment](../../issues/5))
 6. Descriptive statistics and Python ([slide-6](https://osf.io/zqkv9), [assignment](../../issues/6))
 7. Materials review and finishing previous assignment ([assignment](../../issues/7))
-8. Data dan source of data ([slide-7a](https://osf.io/an2bs), [slide-7b](https://osf.io/3rb8k), [assignment](../../issues/8))
+8. Data dan source of data ([slide-8a](https://osf.io/an2bs), [slide-8b](https://osf.io/3rb8k), [assignment](../../issues/8))
 9. 
