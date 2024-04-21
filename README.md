@@ -11,3 +11,4 @@ Mata Kuliah Data Sains
 8. Data dan source of data ([slide-8a](https://osf.io/an2bs), [slide-8b](https://osf.io/3rb8k), [assignment](../../issues/8))
 9. Random number, Monte Carlo, discrete Fourier transform ([slide-9a](https://zenodo.org/records/7106168), [slide-9b](https://osf.io/9ykqu), [slide-9c](https://osf.io/k6mr9), [assignment](../../issues/9))
 10. Neural networks intro, ANN with spreadsheet ([slide-10a](https://osf.io/3ksmu), [slide-10b](https://osf.io/42tq9), [assignment](../../issues/10))
+11. Practicing Python for ML with Iris and synthetic datasets ([slide-11a](https://osf.io/k8b7q), [slide-11b](https://osf.io/wqv3z), [assignment](../../issues/11))
