@@ -10,3 +10,4 @@ Mata Kuliah Data Sains
 7. Materials review and finishing previous assignment ([assignment](../../issues/7))
 8. Data dan source of data ([slide-8a](https://osf.io/an2bs), [slide-8b](https://osf.io/3rb8k), [assignment](../../issues/8))
 9. Random number, Monte Carlo, discrete Fourier transform ([slide-9a](https://zenodo.org/records/7106168), [slide-9b](https://osf.io/9ykqu), [slide-9c](https://osf.io/k6mr9), [assignment](../../issues/9))
+10. Neural networks intro, ANN with spreadsheet ([slide-10a](https://osf.io/3ksmu), [slide-10b](https://osf.io/42tq9), [assignment](../../issues/10))
