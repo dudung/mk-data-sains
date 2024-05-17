@@ -14,4 +14,4 @@ Mata Kuliah Data Sains
 11. Practicing Python for ML with Iris and synthetic datasets ([slide-11a](https://osf.io/k8b7q), [slide-11b](https://osf.io/wqv3z), [assignment](../../issues/11))
 12. Finishing previous assignments (slide-12, [assignment](../../issues/12))
 13. TensorFlow Playground ([slide-13](https://osf.io/43baq), [assignment](../../issues/13))
-14. Finding case, data, code ([slide-14](https://osf.io/aykwd), assignment)
+14. Finding case, data, code ([slide-14](https://osf.io/aykwd), [assignment](../../issues/14))
