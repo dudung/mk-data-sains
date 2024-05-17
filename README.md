@@ -12,5 +12,5 @@ Mata Kuliah Data Sains
 9. Random number, Monte Carlo, discrete Fourier transform ([slide-9a](https://zenodo.org/records/7106168), [slide-9b](https://osf.io/9ykqu), [slide-9c](https://osf.io/k6mr9), [assignment](../../issues/9))
 10. Neural networks intro, ANN with spreadsheet ([slide-10a](https://osf.io/3ksmu), [slide-10b](https://osf.io/42tq9), [assignment](../../issues/10))
 11. Practicing Python for ML with Iris and synthetic datasets ([slide-11a](https://osf.io/k8b7q), [slide-11b](https://osf.io/wqv3z), [assignment](../../issues/11))
-12. Midterm []()
-13. TensorFlow Playground ([slide](https://osf.io/43baq), [assignment](https://github.com/dudung/mk-data-sains/issues/13))
+12. Finishing previous assignments ([assignment](../../issues/12))
+13. TensorFlow Playground ([slide](https://osf.io/43baq), [assignment](../../issues/13))
